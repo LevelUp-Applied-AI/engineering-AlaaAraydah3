@@ -1,4 +1,5 @@
 ## Description
+<<<<<<< HEAD
 
 - A PR template and self-review checklist committed
 
@@ -8,6 +9,12 @@
 
 - Write a PR template a reviewer would actually find useful
 
+=======
+- A PR template and self-review checklist committed 
+## What changed 
+- add new repo.
+- Write a PR template a reviewer would actually find useful
+>>>>>>> 3bd5f72d07530ec9e41a5e6e3ceec126d203f036
 - Write my personal pre-PR self-review checklist
 
 - Add a “How to run” section
