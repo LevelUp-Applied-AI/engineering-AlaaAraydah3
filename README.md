@@ -30,23 +30,32 @@ pip install -r requirements-prework.txt
 ```
 ## How to run
 
- ## Set up the environment:
-    1. Activate the virtual environment:
-     - if you use Windows:
-     .venv\Scripts\activate
-   - if you use Mac/Linux:
-     source .venv/bin/activate
+## Set up the environment:
 
- ## Run the code 
-  - From the root directory, run :
-    . git clone https://github.com/LevelUp-Applied-AI/engineering-AlaaAraydah3.git :  
-      Git will create a new folder on my device with the same name as the project(engineering-AlaaAraydah3).
-    . to move to this repo : cd engineering-AlaaAraydah3
-  - create new branch : 
-   git branch -c pr-05-pr-hygiene 
-   then, to switch to new branch :
-    git switch pr-05-pr-hygiene
- - create files by : mkdir .github
+- Activate the virtual environment:
 
-## Confirm success: 
+- if you use Windows:
+.venv\Scripts\activate
+
+- if you use Mac/Linux:
+source .venv/bin/activate
+
+## Run the code
+
+- From the root directory, run:
+
+git clone https://github.com/LevelUp-Applied-AI/engineering-AlaaAraydah3.git :
+Git will create a new folder on my device with the same name as the project(engineering-AlaaAraydah3).
+
+- to move to this repo: cd engineering-AlaaAraydah3
+
+- create new branch:
+git branch -c pr-05-pr-hygiene
+then, to switch to new branch:
+git switch pr-05-pr-hygiene
+
+- create files by: mkdir .github
+
+## Confirm success:
+
 - should see output or files without any error
